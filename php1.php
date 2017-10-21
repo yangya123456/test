@@ -1,7 +1,1 @@
-<?php
-
-
-
-
-
-phpinfo();
+yanguiuiuiuiu
